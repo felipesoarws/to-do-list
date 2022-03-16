@@ -1,2 +1,14 @@
-# to-do-list
-# TIC TAC TOE  A tic tac toe game made with HTML, SCSS and Vanilla JavaScript!   ## Demonstration  ![Captura de tela 2022-03-04 172244](https://user-images.githubusercontent.com/86936050/156836575-9b7dcb92-9fe7-427e-bb6d-209b4233957f.jpg)  ### Preview: &lt;a href="https://tic-tac-toe-bice-five.vercel.app/">check here.&lt;/a>
+# TO DO LIST
+
+A to do list made with HTML, SCSS and Vanilla JavaScript!
+
+
+## Demonstration
+
+
+
+https://user-images.githubusercontent.com/86936050/158497488-8dfbecbb-5b8d-4f9c-966b-313f286ee8ea.mp4
+
+
+
+### Preview: <a href="https://tic-tac-toe-bice-five.vercel.app/">check here.</a>
